@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+
+import(graphics, grDevices, stats, utils)
+
+#S3method(methodName, className)
+
